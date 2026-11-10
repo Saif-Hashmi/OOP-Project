@@ -112,8 +112,8 @@ A console-based banking simulation written in **C++** that demonstrates the core
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Saif-Hashmi/OOP-Project.git
+cd OOP-Project
 
 # Compile
 g++ -std=c++11 OOP_Final_Project.cpp -o bank
@@ -178,8 +178,8 @@ Enter Balance: 1000
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+**Saif Ur Rehman Hashmi**
+- GitHub: [Saif-Hashmi](https://github.com/Saif-Hashmi)
 
 Developed as the Final Project for the **Object-Oriented Programming** course.
 
